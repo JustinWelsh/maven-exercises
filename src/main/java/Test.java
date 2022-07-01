@@ -18,6 +18,14 @@ public class Test {
         String strToReverse = sc.nextLine();
         System.out.println(StringUtils.reverse(strToReverse));
 
+//        System.out.println("\nEnter a something and I will tell you if it is a number.");
+//        String userInput = sc.nextLine();
+//        System.out.println(StringUtils.isNumeric(userInput));
+//
+//        System.out.println(StringUtils.swapCase(userInput));
+//
+//        System.out.println(StringUtils.reverse(userInput));
+
 
         //todo: 1. Tells whether or not what the user entered is a number
         //      2. Flips the case of the string
